@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=PhotonX-AMP&icon=4&color=5)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on MQL5 and building EAs<br>👯 I’m looking to collaborate on trading related projects<br>🤝 I’m looking for help with workflow and project planning<br>🌱 I’m currently learning MQL4 and 5, Wordpress, and Data Science (machine Learning and AI)<br>&nbsp; &nbsp; &nbsp;&nbsp;I create YT videos on trading and its related topics, I write blogs too.<br>💬 Ask me about absolutely anything!<br>⚡ Fun fact, 95% of traders like me are not profitable, but I am
 
@@ -19,7 +21,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PhotonX-AMP&icon=4&color=5)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/preciousmua) 
