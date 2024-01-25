@@ -13,9 +13,9 @@
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction:column; justify-content: center; align-content: center;">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=PhotonX-AMP&theme=radical&hide_border=false&include_all_commits=true&count_private=true"<br/>-->
-  <img src= "https://github-readme-streak-stats.herokuapp.com/?user=PhotonX-AMP&theme=radical&hide_border=false"><br/>
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PhotonX-AMP&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</div>
+  <div><img src= "https://github-readme-streak-stats.herokuapp.com/?user=PhotonX-AMP&theme=radical&hide_border=false"></div>
+  <div><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PhotonX-AMP&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  </div></div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PhotonX-AMP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
