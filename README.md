@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MQL5 and building EAs<br>👯 I’m looking to collaborate on trading related projects<br>🤝 I’m looking for help with workflow and project planning<br>🌱 I’m currently learning MQL4 and 5, Wordpress, and Data Science (machine Learning and AI)<br>&nbsp; &nbsp; &nbsp;I create YT videos on trading and its related topics, I write blogs too.<br>💬 Ask me about absolutely anything!<br>⚡ Fun fact, 95% of traders like me are not profitable, but I am
+🔭 I’m currently working on MQL5 and building EAs<br>👯 I’m looking to collaborate on trading related projects<br>🤝 I’m looking for help with workflow and project planning<br>🌱 I’m currently learning MQL4 and 5, Wordpress, and Data Science (machine Learning and AI)<br>&nbsp; &nbsp; &nbsp;&nbsp;I create YT videos on trading and its related topics, I write blogs too.<br>💬 Ask me about absolutely anything!<br>⚡ Fun fact, 95% of traders like me are not profitable, but I am
 
 
 ## 🌐 Socials:
