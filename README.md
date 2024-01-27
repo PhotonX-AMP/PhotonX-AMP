@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=PhotonX-AMP&icon=4&color=5)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-<p align="center" font = "100">🔭 I’m currently working on MQL5 and building EAs<br>👯 I’m looking to collaborate on trading related projects<br>🤝 I’m looking for help with workflow and project planning<br>🌱 I’m currently learning MQL4 and 5, Wordpress, and Data Science (machine Learning and AI)<br>&nbsp; &nbsp; &nbsp;&nbsp;I create YT videos on trading and its related topics, I write blogs too.<br>💬 Ask me about absolutely anything!<br>⚡ Fun fact, 95% of traders like me are not profitable, but I am.</p>
+🔭 I’m currently working on MQL5 and building EAs<br>👯 I’m looking to collaborate on trading related projects<br>🤝 I’m looking for help with workflow and project planning<br>🌱 I’m currently learning MQL4 and 5, Wordpress, and Data Science (machine Learning and AI)<br>&nbsp; &nbsp; &nbsp;&nbsp;I create YT videos on trading and its related topics, I write blogs too.<br>💬 Ask me about absolutely anything!<br>⚡ Fun fact, 95% of traders like me are not profitable, but I am.
 
 <!--
 ## 🌐 Socials:
@@ -21,6 +21,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=PhotonX-AMP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
