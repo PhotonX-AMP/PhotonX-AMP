@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=PhotonX-AMP&icon=4&color=5)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I am currently working on MQL5 and building EAs<br>👯 I’m looking to collaborate on trading related projects<br>🤝 I’m looking for help with workflow and project planning<br>🌱 I’m currently learning MQL4 and 5, Wordpress, and Data Science (machine Learning and AI)<br>&nbsp; &nbsp; &nbsp;&nbsp;I create YT videos on trading and its related topics, I write blogs too.<br>💬 Ask me about absolutely anything!<br>⚡ Fun fact, 95% of traders like me are not profitable, but I am.
+🔭 I am forex trader and software engineer, Bsc. Computer Science.<br>👯 I am looking to collaborate on trading, Software dev and AI related projects<br><br>🌱 I am currently learning MQL4 and 5 <br>&nbsp; &nbsp; &nbsp;&nbsp;I create YT videos on trading and other related topics, I blog too.<br>💬 Ask me about absolutely anything!<br>⚡ Fun fact, 95% of traders like me are not profitable, but I am.
 
 <!--
 ##🌐 Socials:
