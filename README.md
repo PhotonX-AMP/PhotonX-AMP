@@ -3,6 +3,7 @@
 <div class="about" style="margin: 0 auto"><h2>💫 About Me:</h2>
 🔭 I am forex trader and software engineer, Bsc. Computer Science.<br>👯 I am looking to collaborate on trading, Software dev and AI related projects<br><br>🌱 I am currently learning MQL4 and 5 <br>&nbsp; &nbsp; &nbsp;&nbsp;I create YT videos on trading and other related topics, I blog too.<br>💬 Ask me about absolutely anything!<br>⚡ Fun fact, 95% of traders like me are not profitable, but I am.
 </div>
+
 <!--
 ##🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awasum-precious-mua-wallang-3a7503155?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PhontonX?t=-NCxtgeSWPyTQ5wYLqTzsA&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](@https://www.youtube.com/channel/UC2jSHt6M6ZrVfknRX4YpHxg) 
