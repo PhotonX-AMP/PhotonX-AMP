@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=PhotonX-AMP&icon=4&color=5)](https://visitcount.itsvg.in)
 
-<div class="about" style="margin: 0 auto"><h2>💫 About Me:</h2>
+<div class="about" style="margin: 0 auto; font-align: center;"><h2>💫 About Me:</h2>
 🔭 I am forex trader and software engineer, Bsc. Computer Science.<br>👯 I am looking to collaborate on trading, Software dev and AI related projects<br><br>🌱 I am currently learning MQL4 and 5 <br>&nbsp; &nbsp; &nbsp;&nbsp;I create YT videos on trading and other related topics, I blog too.<br>💬 Ask me about absolutely anything!<br>⚡ Fun fact, 95% of traders like me are not profitable, but I am.
 </div>
 
