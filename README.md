@@ -23,13 +23,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=PhotonX-AMP&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 -->
 
-## ✍️ Random Dev Quote
+---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-  ## 💰 You can help me by Donating
+  ## 💰 I like my coffee warm and milky.
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/preciousmua) 
 
   
